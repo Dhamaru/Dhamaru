@@ -5,25 +5,48 @@ Software Engineering Student • Building AI Products, Agentic Systems & RAG App
 </h3>
 
 <p align="center">
-I build production-deployed software products focused on AI, music technology, and travel technology.<br/>
-Currently exploring the intersection of RAG, agentic workflows, and full-stack engineering.
+I build production-focused software products at the intersection of AI, music technology, and travel technology.<br/>
+Currently exploring Retrieval-Augmented Generation (RAG), agentic workflows, and modern full-stack engineering.
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readthedocs&logoColor=white" /></a>
-  <a href="mailto:#"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/dhamaru-k-a2a084268/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://drive.google.com/file/d/104TYIUR5_f0DKHJMjZHA1Sgqt1dIW59s/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readthedocs&logoColor=white" />
+  </a>
+  <a href="mailto:kasivasi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Highlights
 
-* Built and deployed two full-stack AI-powered products
-* Implemented RAG retrieval using PostgreSQL + pgvector
-* Built a tool-using AI agent from scratch
-* Designed CI/CD pipelines and production deployment workflows
-* Working with LLM orchestration, retrieval systems, and AI-assisted engineering
+* Built and deployed full-stack AI-powered applications
+* Implemented Retrieval-Augmented Generation (RAG) using PostgreSQL and pgvector
+* Developed a custom tool-using AI agent architecture
+* Designed CI/CD workflows and production deployment pipelines
+* Building products in Music Technology and Travel Technology
+
+---
+
+## 👨‍💻 About Me
+
+I'm a Software Engineering student who enjoys transforming ideas into working products.
+
+My primary interests include:
+
+* Agentic AI Systems
+* Retrieval-Augmented Generation (RAG)
+* Full-Stack Web Development
+* Music Technology
+* Travel Technology
+* AI-Assisted Software Engineering
+
+I learn by building products, solving practical problems, and continuously improving engineering workflows.
 
 ---
 
@@ -38,26 +61,20 @@ Currently exploring the intersection of RAG, agentic workflows, and full-stack e
 
 ## 🎵 Saptaswara — Raga-Guided Music Studio
 
-**Live:** https://saptaswara-web.vercel.app
-
-A music technology platform inspired by modern DAWs, helping musicians compose, practice, and explore Indian classical music through structured raga workflows.
+A music technology platform inspired by modern digital audio workstations, designed to help musicians compose, practice, and explore Indian classical music through structured raga-based workflows.
 
 ### Key Engineering Work
 
-* RAG-powered music assistant grounded in raga theory
-* pgvector embedding retrieval pipeline
-* Multi-provider LLM fallback architecture
-
-  * Gemini 2.0 Flash
-  * Groq Llama 3.3 70B
-  * NVIDIA NIM
-* Multi-track sequencing engine
-* MIDI export support
-* Microphone-based pitch detection
+* RAG-powered music assistant grounded in raga knowledge
+* pgvector-based semantic retrieval
+* Multi-provider LLM architecture
+* Multi-track sequencing workflows
+* MIDI export capabilities
+* Pitch detection for music practice
 * OAuth and Magic Link authentication
 * Row-Level Security (RLS)
-* Redis-based rate limiting
-* Sentry monitoring
+* Redis rate limiting
+* Production monitoring
 
 ### Tech Stack
 
@@ -67,18 +84,18 @@ Next.js • React • Supabase • PostgreSQL • pgvector • Tailwind CSS • 
 
 ## ✈️ TripMate — AI Travel Planner
 
-An intelligent travel planning platform powered by Atlas, a custom-built AI agent designed to perform real-world travel planning tasks.
+An intelligent travel companion platform powered by Atlas, a custom-built AI agent designed to assist users with planning and managing trips.
 
 ### Key Engineering Work
 
-* Custom tool-using AI agent architecture
-* Real-time streaming responses using SSE
-* Tool execution framework
+* Custom tool-using AI agent
+* Real-time streaming responses
+* Travel planning workflows
 * Weather intelligence
 * Currency conversion
 * Places discovery
-* Travel budgeting
-* Emergency assistance tools
+* Budget planning
+* Emergency assistance information
 * Translation support
 * Packing recommendations
 
@@ -88,9 +105,9 @@ An intelligent travel planning platform powered by Atlas, a custom-built AI agen
 * Passport.js
 * MongoDB
 * Mongoose
-* Zod Validation
-* Layered caching architecture
-* CI/CD automation
+* Request validation
+* Layered caching
+* CI/CD workflows
 
 ### Tech Stack
 
@@ -100,15 +117,13 @@ React • Vite • Node.js • Express • MongoDB
 
 ## 🌱 Currently Learning
 
-After implementing custom retrieval systems and agent workflows from scratch, I'm currently exploring:
-
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white" />
 </p>
 
-My focus is understanding the trade-offs between framework-based AI orchestration and hand-built implementations.
+Currently exploring how modern AI frameworks compare with custom-built retrieval and agent architectures.
 
 ---
 
@@ -133,6 +148,16 @@ RAG • pgvector • LangChain • LangGraph • Ollama • Redis • Vercel
 ### Tools
 
 Git • GitHub • Claude Code • Antigravity • Replit
+
+---
+
+## 🎯 Current Focus
+
+* Advancing AI Engineering skills
+* Building production-ready software products
+* Contributing to meaningful projects
+* Expanding expertise in agentic systems and retrieval architectures
+* Continuing development of Saptaswara and TripMate
 
 ---
 
