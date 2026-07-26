@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dhamaru 👋</h1>
 
 <h3 align="center">
-Software Engineering Student • Building AI Products, Agentic Systems & RAG Applications
+Full-Stack Developer • Building AI Products, Agentic Systems & RAG Applications
 </h3>
 
 <p align="center">
@@ -35,7 +35,7 @@ Currently exploring Retrieval-Augmented Generation (RAG), agentic workflows, and
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineering student who enjoys transforming ideas into working products.
+I'm a full-stack developer (B.Tech CSE AI, 2026) who enjoys transforming ideas into working products.
 
 My primary interests include:
 
