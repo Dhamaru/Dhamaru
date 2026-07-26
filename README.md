@@ -164,8 +164,8 @@ Git • GitHub • Claude Code • Antigravity • Replit
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhamaru&show_icons=true&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhamaru&layout=compact&hide_border=true" height="160"/>
+  <img src="https://dhamaru-github-stats.vercel.app/api?username=Dhamaru&show_icons=true&hide_border=true&count_private=true" height="160"/>
+  <img src="https://dhamaru-github-stats.vercel.app/api/top-langs/?username=Dhamaru&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
