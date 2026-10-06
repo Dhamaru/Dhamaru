@@ -13,7 +13,7 @@ Currently exploring Retrieval-Augmented Generation (RAG), agentic workflows, and
   <a href="https://www.linkedin.com/in/dhamaru-k-a2a084268/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://drive.google.com/file/d/1o00SfrSWnixxUJNFtnpkTVEjmInJrfq6/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1BemQg14vs73M0DBVCeeDxu50yUbPPvMM/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readthedocs&logoColor=white" />
   </a>
   <a href="mailto:kasivasi2005@gmail.com">
